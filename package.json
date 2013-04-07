@@ -1,0 +1,22 @@
+{
+  "name": "node-kontagent",
+  "version": "0.2.0",
+  "description": "Unofficial Kontagent Node.js SDK",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AlexeyKupershtokh/node-kontagent.git"
+  },
+  "keywords": [
+    "kontagent",
+    "statistics",
+    "stats"
+  ],
+  "author": "Alexey Kupershtokh",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "a57e91edad87bf58035f47d2d186f5dde1b15b11"
+}
