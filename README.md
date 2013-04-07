@@ -1,7 +1,8 @@
 node-kontagent
 ==============
 
-Unofficial Kontagent Node.js SDK
+Kontagent Node.js SDK (Unofficial).
+It's based on [JavaScript SDK](http://docs.kontagent.com/docs/technical-leads/api-sdk-spec/).
 
 # Installation
 ```sh
