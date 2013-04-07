@@ -21,7 +21,7 @@ ktApi.trackApplicationAdded('123', {uniqueTrackingTag: 111}, function(err, res) 
 
 # Notes
 
-Since node-kontagent uses and `http` module you may want to adjust
+Since node-kontagent uses the `http` module you may want to adjust
 [http.globalAgent.maxSockets](http://nodejs.org/api/http.html#http_agent_maxsockets).
 
 In this module semantics `successCallback` is not a success callback actually. It's supposed to be a regular callback
@@ -30,7 +30,7 @@ with 2 arguments `(err, res)` where either err is an Error or res is an
 
 # Debug
 
-This package provides two debug symbols.
+This package provides two [debug](https://github.com/visionmedia/debug) symbols: kontagent and kontagent-http.
 
 You can run
 ```sh
