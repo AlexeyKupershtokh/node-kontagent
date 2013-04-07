@@ -18,5 +18,8 @@
   "author": "Alexey Kupershtokh",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "a57e91edad87bf58035f47d2d186f5dde1b15b11"
+  "gitHead": "a57e91edad87bf58035f47d2d186f5dde1b15b11",
+  "dependencies": {
+    "debug": "*"
+  }
 }
